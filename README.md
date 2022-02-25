@@ -1,0 +1,3 @@
+# Program
+
+Pada repositori ini berisi beberapa program yang pernah saya buat dan library yang digunakan. Silahkan jika ingin digunakan....
